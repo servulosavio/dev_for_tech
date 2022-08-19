@@ -12,6 +12,6 @@ var a = [];
 
 for (let i = 0; i < num; i++) {
     a.push('*')
-    console.log(a)
+    console.log(a.join(''))
 }
 
