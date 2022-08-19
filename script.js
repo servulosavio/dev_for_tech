@@ -1,7 +1,7 @@
 var num = prompt('Digite um número');
 undefined
 if (num %2 == 0) {
-    console.log('Par')
+    console.log('O número ' + num + ' é Par')
 } else {
-    console.log('Impar')
+    console.log('O número ' + num + ' é Ímpar')
 }
